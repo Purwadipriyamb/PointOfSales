@@ -1,0 +1,2 @@
+nama database: latupk2016
+2 tabel, yaitu login dan tb_tiket
